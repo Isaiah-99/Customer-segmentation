@@ -26,23 +26,20 @@ The model is a star schema.
 
 ## Visualization
 
+![](Dashboard.png)
+
 The report comprises of Power BI Dashboard which Visualize customer segments to:
 •	Display key metrics.
 •	Create interactive dashboards showing geographical trends (State/City) of customer segments.
 •	Highlight top customers, products, and categories contributing to each segment.
 
-
-
-You can interact with the report [here](https://app.powerbi.com/groups/me/reports/6319b755-7411-443e-b6f0-6085802e5731/ReportSection?experience=power-bi)
-
-![](Dashboard.png)
+You can access and interact with the Power BI [here](https://github.com/Isaiah-99/Customer-segmentation/blob/main/Customer%20Segmentation.pbix)
 
 Features:
 - Barchart for the customers by Sales which derived the customer with the highest sales and for total sales by category.
 - Map chart is used to visualize total sales by state to generate state with the highest sales.
 - Slicers were added to the dashboard for filtering records and the data added are: category, state, city for easy filtering.
 - Card chart was also added to summarize total amount, total profit, total quantity sold, total category and total sub categories. 
-
 
 ## Analysis
 
